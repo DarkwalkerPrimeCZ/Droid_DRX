@@ -2,7 +2,7 @@
 
 ## Úvod
 
-Projekt Droid vznikl z přesvědčení, že technologická bariéra (znalost programování) by neměla bránit realizaci inovativních ekonomických myšlenek. Od léta 2025 do ledna 2026 byl DRX vyvíjen unikátní metodou: zakladatel, vystupující jako DarkwalkerPrime, definoval architekturu a pravidla sítě, zatímco samotnou implementaci kódu realizovali dva pokročilí AI asistenti – Google Gemini a Grok.
+Projekt Droid vznikl z přesvědčení, že technologická bariéra (znalost programování) by neměla bránit realizaci inovativních ekonomických myšlenek. Od léta 2025 do 1. ledna 2026 byl DRX vyvíjen unikátní metodou: zakladatel, vystupující jako DarkwalkerPrime, definoval architekturu a pravidla sítě, zatímco samotnou implementaci kódu realizovali dva pokročilí AI asistenti – Google Gemini a Grok.
 
 Tento proces nebyl pouhým generováním kódu, ale intenzivním iterativním vývojem. DarkwalkerPrime řídil logiku konsensu, ekonomické parametry a bezpečnostní protokoly, zatímco AI nástroje sloužily jako expertní „programátorské oddělení“.
 
