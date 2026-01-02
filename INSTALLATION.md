@@ -25,7 +25,7 @@ cd droid
 nano droid.py    
 ```    
 
-2. Otevři soubor `droid-drx-0.1.0-alpha-1.py` v programu Totalcmd-Editor (či ekvivalentu) a zkopíruj obsah do schránky.    
+2. Otevři soubor `droid_drx_0_1_0_alpha_1.py` v programu Totalcmd-Editor (či ekvivalentu) a zkopíruj obsah do schránky.    
 
 3. Podrž prst na obrazovce, klikni na **Paste** a ulož změny klávesami **CTRL-X → Y → Enter**.    
 
@@ -58,7 +58,7 @@ cd droid
 nano be.py    
 ```    
 
-2. Otevři soubor `blockchain-explorer.py` v Totalcmd-Editoru (či ekvivalentu) a zkopíruj obsah do schránky.    
+2. Otevři soubor `blockchain_explorer_0_1_0_alpha_1.py` v Totalcmd-Editoru (či ekvivalentu) a zkopíruj obsah do schránky.    
 
 3. Podrž prst na obrazovce, klikni na **Paste** a ulož změny klávesami **CTRL-X → Y → Enter**.    
 
