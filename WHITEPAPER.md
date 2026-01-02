@@ -113,12 +113,6 @@ Následující dokument popisuje technické specifikace kryptoměny Droid (ticke
 - **Uživatelské rozhraní**: Konzolové menu pro těžbu, transakce, zobrazení atd.
 - **Knihovny**: hashlib, json, time, ecdsa, binascii, os, threading, socket, sys, queue, colorama, struct, cryptography, getpass, sqlite3, heapq, multiprocessing, collections, readline, math, signal.
 
-## 8. Omezení a Poznámky
-- Žádný internetový přístup kromě proxy pro vybrané API (polygon, coingecko), žádné pip install.
-- Žádná podpora pro instalaci dalších balíčků.
-- Bezpečnostní opatření proti úpravám genesis (kontrola hashů při startu).
-- Implementace je pro vzdělávací nebo testovací účely; pro produkci by bylo potřeba další audit a optimalizace.
-
 ## Roadmap — stav vývoje a přechod na finální verzi
 
 V současné fázi (Alpha 0.1.0) je zdrojový kód veřejně dostupný, aby bylo možné rychlé testování, debugování a komunitní přispívání i na stolních počítačích. Toto otevřené vydání slouží výhradně jako raná testovací verze a může obsahovat neúplné funkce a bezpečnostní nedostatky.
