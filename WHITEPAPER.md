@@ -1,4 +1,4 @@
-﻿# Droid (DRX) Whitepaper
+# Droid (DRX) Whitepaper
 
 ## Úvod
 
@@ -130,9 +130,10 @@ V současné fázi (Alpha 0.1.0) je zdrojový kód veřejně dostupný, aby bylo
 - Finální verze nebude zpětně kompatibilní s klienty alfa verze; blockchainová historie (ledger) však zůstane zachována, takže data a transakce z alfa fáze budou integrované do finální sítě.  
 - Do finální sítě budou implementována opatření proti přijímání transakcí z neoficiálních forků a klonů, aby se zabránilo míchání provozu a záměně transakcí mezi odlišnými instancemi softwaru.
 
-# Poznámka
+## Varování
 I v současné Alfa 0.1.0 verzi je implementována základní ochrana proti transakcím s upravenými konstantami, takže blockchain odmítá transakce od uzlů, které by se snažily podvádět změnou konstant ve svém kódu.  
  
+## Poznámka
 V současné fázi je nutné používat VPN (ZeroTierOne), protože projekt zatím nemá implementované peer discovery, ani šifrování P2P komunikace. Alternativně můžete použít SSH.
 
 ## Poděkování
@@ -140,6 +141,8 @@ Děkuji komunitě a odkazu Satoshiho Nakamota za inspiraci. Droid (DRX) byl doko
 
 Poděkování patří všem, kteří věří v otevřené finanční systémy. Uznání náleží i síti Bitcoin, v jejímž bloku 930423 je tento projekt navždy kryptograficky ukotven."
 
+Děkuji modelům Google Gemini a Grok za stovky hodin iterativního vývoje, během nichž transformovali mé architektonické definice do reality.
+ 
 ​Zvláštní poděkování patří i uživateli Whitehouse za
 jeho odborné konzultace v oblasti implementace cílové obtížnosti (target difficulty), a za poskytnutí klíčového fragmentu kódu pro monitoring sítě:
 
@@ -147,9 +150,8 @@ sys.stdout.write(f"Current target difficulty: {difficulty}\n")
 
 ​Tento úryvek posloužil jako základ pro implementaci komplexního monitorovacího rozhraní, které v reálném čase (každých 60 sekund) informuje těžaře o resetu PoW Nonce, aktuální obtížnosti (target) a časovém razítku bloku.
 
-## Dodatek: Manifest spolupráce
-​Tento projekt je výsledkem symbiózy mezi lidským záměrem a umělou inteligencí.
-​Děkuji modelům Google Gemini a Grok za stovky hodin iterativního vývoje, během nichž transformovali mé architektonické definice do reality. Jejich role při psaní kódu DRX potvrzuje, že budoucnost decentralizace leží v efektivním spojení lidské strategie a výpočetní inteligence. Droid (DRX) tak není jen technologickým nástrojem, ale i důkazem, že hranice mezi tvůrcem a nástrojem se v digitálním věku vytrácí ve prospěch inovace.
+## Dodatek
+​Jako tvůrce Droid (DRX) jsem se rozhodl zachovat privátní klíč k genesis coinbase odměně (50 DRX) pouze pro nouzové situace. Tyto mince zůstanou nedotknuté a budou použity výhradně s transparentním souhlasem komunity – například na kritické opravy sítě, bezpečnostní audity nebo komunitní projekty. Žádný osobní zisk. To zajišťuje férový start a dlouhodobou udržitelnost projektu.
 
 ## Upozornění
 Tento projekt slouží především pro vzdělávání a hobby; nejde o produkt určený pro produkční prostředí.
