@@ -133,7 +133,7 @@ V současné fázi je nutné používat VPN (ZeroTierOne), protože projekt zat�
 ## Poděkování
 Děkuji komunitě a odkazu Satoshiho Nakamota za inspiraci. Droid (DRX) byl dokončen 1. 1. 2026 jako pocta principům férového startu a decentralizace."
 
-Poděkování patří všem, kteří věří v otevřené finanční systémy. Uznání náleží i síti Bitcoin, v jejímž bloku 930423 je tento projekt navždy kryptograficky ukotven."
+Poděkování patří všem, kteří věří v otevřené finanční systémy. Uznání náleží i síti Bitcoin, v jejímž bloku 930423 je tento projekt navždy kryptograficky ukotven.
 
 Děkuji modelům Google Gemini a Grok za stovky hodin iterativního vývoje, během nichž transformovali mé architektonické definice do reality.
  
