@@ -23,7 +23,7 @@ Následující dokument popisuje technické specifikace kryptoměny Droid (ticke
 - **Maximální nabídka (max supply)**: 100 000 000 DRX (100 000 000 * 10^8 jednotek)
 - **Genesis blok**:
   - Timestamp: 1767297600 (odpovídá 1.1.2026, 20:00:00 UTC)
-  - Coinbase adresa: DRXfc3d428153b2c71be82e84a04c8b70b3d5153c75cc7c75edc3323d6e9c7cb8d5d063
+  - Genesis adresa: DRXfc3d428153b2c71be82e84a04c8b70b3d5153c75cc7c75edc3323d6e9c7cb8d5d063
   - Očekávaný hash genesis adresy: be2a18b752ca5804e83a2e2b2fd182654284d95a1bb51893ce5bcdf8f199bd42
   - Očekávaný hash genesis bloku: 00000b96e6ed7211e538e047307f7a5df3f07863bf1c4be9e1f6ea2b1eac8525
   - Coinbase odměna: 50 DRX (50 * 10^8 jednotek)
