@@ -42,7 +42,6 @@ Projekt je ve fázi Alpha a **není určen pro produkční použití**. V souča
 ## Dokumentace
 
 - [WHITEPAPER.md](WHITEPAPER.md)
-- [CHANGELOG.md](CHANGELOG.md)
 - [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
